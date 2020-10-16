@@ -7,7 +7,10 @@ package if1.pkg10119011.latihan1.biodata;
 
 /**
  *
- * @author Reihan Wiyanda
+ * @author 
+ *  Nama    : Reihan Wiyanda
+ *  Kelas   : IF-1
+ *  Nim     : 10119011
  */
 public class IF110119011Latihan1Biodata {
 
